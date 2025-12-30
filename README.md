@@ -1,2 +1,2 @@
 # ML-Algo
-Implementations of all the ML algorithms
+This repository contains hands-on implementations of core machine learning algorithms for classification and regression, built to develop a strong understanding of model behavior, training dynamics, regularization, and evaluation. The focus is on learning how and why algorithms work, comparing their strengths and limitations, and applying appropriate performance metrics—forming a solid foundation for real-world ML systems and advanced AI work.
